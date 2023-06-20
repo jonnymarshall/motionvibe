@@ -18,5 +18,7 @@
     "tailwindcss-font-inter": "^3.0.1"
   },
   "version": "2.3.2",
-  "dependencies": {}
+  "dependencies": {
+    "cssnano": "^6.0.1"
+  }
 }
