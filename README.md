@@ -6,6 +6,10 @@ using [Tailwind CSS Boilerplate](https://github.com/michelegera/create-tailwindc
 
 👉 [Check out the demo](https://open.michelegera.dev/)
 
+Logos used:
+https://www.svgrepo.com/svg/495818/video-circle
+https://www.svgrepo.com/svg/495821/video-octagon
+
 ## Getting started
 
 Clone this repository, then run:
