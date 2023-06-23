@@ -10,6 +10,13 @@ Logos used:
 https://www.svgrepo.com/svg/495818/video-circle
 https://www.svgrepo.com/svg/495821/video-octagon
 
+Icons used:
+https://www.svgrepo.com/svg/435436/speed
+https://www.svgrepo.com/svg/253731/quality
+https://www.svgrepo.com/svg/450741/collaboration
+https://www.svgrepo.com/svg/473352/puzzle
+https://www.svgrepo.com/svg/236204/mountains
+
 ## Getting started
 
 Clone this repository, then run:
