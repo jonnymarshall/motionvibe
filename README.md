@@ -17,6 +17,17 @@ https://www.svgrepo.com/svg/450741/collaboration
 https://www.svgrepo.com/svg/473352/puzzle
 https://www.svgrepo.com/svg/236204/mountains
 
+Images used:
+https://www.pexels.com/photo/black-textile-41949/
+https://unsplash.com/photos/SL5d_8ywAAA
+https://unsplash.com/photos/FkjVVSh4UGc
+
+Other images recommended for use with this theme:
+https://unsplash.com/photos/h-ySkoCRzhs
+https://unsplash.com/photos/qJgW5ewKCO8
+https://unsplash.com/photos/qJgW5ewKCO8
+https://www.pexels.com/photo/low-angle-view-of-lighting-equipment-on-shelf-257904/
+
 ## Getting started
 
 Clone this repository, then run:
