@@ -7,26 +7,26 @@ using [Tailwind CSS Boilerplate](https://github.com/michelegera/create-tailwindc
 👉 [Check out the demo](https://open.michelegera.dev/)
 
 Logos used:
-https://www.svgrepo.com/svg/495818/video-circle
-https://www.svgrepo.com/svg/495821/video-octagon
+- https://www.svgrepo.com/svg/495818/video-circle
+- https://www.svgrepo.com/svg/495821/video-octagon
 
 Icons used:
-https://www.svgrepo.com/svg/435436/speed
-https://www.svgrepo.com/svg/253731/quality
-https://www.svgrepo.com/svg/450741/collaboration
-https://www.svgrepo.com/svg/473352/puzzle
-https://www.svgrepo.com/svg/236204/mountains
+- https://www.svgrepo.com/svg/435436/speed
+- https://www.svgrepo.com/svg/253731/quality
+- https://www.svgrepo.com/svg/450741/collaboration
+- https://www.svgrepo.com/svg/473352/puzzle
+- https://www.svgrepo.com/svg/236204/mountains
 
 Images used:
-https://www.pexels.com/photo/black-textile-41949/
-https://unsplash.com/photos/SL5d_8ywAAA
-https://unsplash.com/photos/FkjVVSh4UGc
+- https://www.pexels.com/photo/black-textile-41949/
+- https://unsplash.com/photos/SL5d_8ywAAA
+- https://unsplash.com/photos/FkjVVSh4UGc
 
 Other images recommended for use with this theme:
-https://unsplash.com/photos/h-ySkoCRzhs
-https://unsplash.com/photos/qJgW5ewKCO8
-https://unsplash.com/photos/qJgW5ewKCO8
-https://www.pexels.com/photo/low-angle-view-of-lighting-equipment-on-shelf-257904/
+- https://unsplash.com/photos/h-ySkoCRzhs
+- https://unsplash.com/photos/qJgW5ewKCO8
+- https://unsplash.com/photos/qJgW5ewKCO8
+- https://www.pexels.com/photo/low-angle-view-of-lighting-equipment-on-shelf-257904/
 
 ## Getting started
 
